@@ -6,7 +6,7 @@ This codebase basically is a character level text generator trained upon the  us
 
 Generating text after epoch: 0
 ...Temperature: 0.2
-...Generating with seed: "preface   supposing that truth is a woma"
+Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n in the strength and the best the same a something the sense of the superstition, and the conscience the best the sense of the superiority of the man is the thing that is a conscience of the sense of conscience of the superstition, and an instance, the superstition, the religious the conscience the sense of the superstition of the conscience to the sense of the sense of the superiority to the sam
 -
 ...Temperature: 0.5
@@ -28,8 +28,9 @@ Generating text after epoch: 1
 
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  
-```n and the stand of the case of the sentiment of the stand and the sentiment of the sentiment that a people indeed that all the stand and the standed and the speak of the soure of the sentiment that is the stare of the such a strength of the stand of the stand of the stand that the stands that is all the stand of the stand of the sentiment that is the stand of the stand of the sentiment who has in ```
+
+>[!Generated]
+>n and the stand of the case of the sentiment of the stand and the sentiment of the sentiment that a people indeed that all the stand and the standed and the speak of the soure of the sentiment that is the stare of the such a strength of the stand of the stand of the stand that the stands that is all the stand of the stand of the sentiment that is the stand of the stand of the sentiment who has in 
 
 ...Temperature: 0.5
 ...Generating with seed: "preface   supposing that truth is a woma"
