@@ -29,13 +29,13 @@ Generating text after epoch: 1
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 
->[!Generated]
+Generated:
 >n and the stand of the case of the sentiment of the stand and the sentiment of the sentiment that a people indeed that all the stand and the standed and the speak of the soure of the sentiment that is the stare of the such a strength of the stand of the stand of the stand that the stands that is all the stand of the stand of the sentiment that is the stand of the stand of the sentiment who has in 
 
 ...Temperature: 0.5
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  
-```n not any its will far the procede of the that is all that has can be as the speak and a moral far any time be such a succed in all that all the world which the spirits in the super-inflict asters and the philosophy and the that is has a be strength the easily have been far not even is the still and the still in the instance, and indignation to the highest perhaps to his fore man is has the instri```
+Generated:  
+>n not any its will far the procede of the that is all that has can be as the speak and a moral far any time be such a succed in all that all the world which the spirits in the super-inflict asters and the philosophy and the that is has a be strength the easily have been far not even is the still and the still in the instance, and indignation to the highest perhaps to his fore man is has the instri
 
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
