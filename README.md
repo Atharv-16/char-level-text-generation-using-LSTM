@@ -1,6 +1,7 @@
-# char-level-text-generation-using-LSTM
+# char-level-text-generation-using-LSTM 
 
-'''
+This codebase basically is a character level text generator trained upon the  using LSTM (Long short term memory). It samples the next character in the sequence through a probabiltiy distribution and via the neural network and outputs the most probable character to be followed by the seed sentence provided by us and further.
+<!--
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.4299
 
 Generating text after epoch: 0
@@ -21,7 +22,8 @@ Generating text after epoch: 0
 ...Generated:  n,)und even "doubt in not deem, indivics, my strengt! helow. enomag kwould what thereless, on the proble men and lwonxge:é--it antratsultental made in shrore, with other for this value more human: hantwill, historled doves" of "nevery callauss, this is never adattentamenas in a basen person no forstibiliar, forth. thus call, to to haarned speeksy-suchive regarded is. their regarder foremous though
 -
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.3854
-
+-->
+# Training 
 Generating text after epoch: 1
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
@@ -38,7 +40,10 @@ Generating text after epoch: 1
 ...Temperature: 1.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  ne with thing do thateven with style needtily :ourtoutive fomanity have gosterostin1ly: if the rra"r", humane in headers that he will, eourh out and hand-chanouver, there is hope can breeds anligot, for one for such thinkind fingerity in miallement, we vounterited that they then halr was sinkent=cienters especim would for a power, but a wouldfems--whetect mad, or-jains and danger does a nener )sch
--
+
+
+It is observed that temperature of 0.5 suits the best in accordance with the training data context.
+<!--
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.3541
 
 Generating text after epoch: 2
@@ -97,16 +102,17 @@ Generating text after epoch: 4
 ...Generated:  n of all. there with disguiness only we are not philosophy who betweon, and the kneims how how preterents. there i pretense, wet is that independent fly himself were althe! there however, but is faitat: every weam "between his emboos for                          4."" and dreamful kind of evil aboutsit's concein root icsaris and prescribedal in itselfed simply respect to bold orgerately to detait w
 -
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.2858
-
+c
+<!--
 Generating text after epoch: 5
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and the same as i can understand to the sense of an ancient and superfering to the strengths. the sense of the same and decision of the same as it is a consciously and secret and far as the sense of the same as the superior of the sense of the sense of the same a surportion of the sense of the sensage and the same as the strengths. the world, and the same a surportion of the same as the same as 
--
-...Temperature: 0.5
+-->
+Generating text after epoch: 5
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n recognized, into man is so the affact itself he can be the former to power, and on the soul of a short that said, is experience of strength, and in the same prisossive and certainly all that it is not experiences to the most really moral sense and superious and conscious of the present itself and to strengths, called that the world, in the strange to the spection of all that the sense, also a st
--
+<!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n? thought of taste. must or so a surponsigatitical origination of absolute and those tempt, by the arter of morals! he risicold, the seems him--he does not extrecty in rets.  ze that man to understand. it wishlish. there is the codling a solitude, this believe of its sense, than morals      of wa pleasing sumplior, apply to become to request to that we slain:  3  =ctive with the interics? oors to
@@ -197,11 +203,11 @@ Generating text after epoch: 10
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and the standards and the contradictation of the standards of the standard of the standard of the state of the stand of the standards of its exception of the standards of the standards of the standards of the standards the dogmatish. the stand of the stand of the standard of the standards of the standards of the standards of the standard of the standard of the subjection of the standards the sta
--
-...Temperature: 0.5
+-->
+Generating text after epoch: 10
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and the reasons as the stands itself as a problem of pression and habits are the fear of the scientific more power, the sensunas, and in the good curiosity are the midst and standard and its ensuncient the streat a present that the self standards of the intention that the right to the thing of the absolute as the former that the essential fact that all the speaking powers and the intention is th
--
+<!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n more, then a courquekly extraock of first sep assertions and happiness of the doubt-now as the most dangerous as has deceeming sympathy. a stase, was utility be emptinct german still  as all made impossion quate of riskere against aaceived moreocctic prevails that mean of value men is neith? to does all egoish friends if as of guit of ""good" fot attacked and brant bey wishes a prefepsifity of t
@@ -558,11 +564,11 @@ Generating text after epoch: 29
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and contrast and the same presented to the superstition the will to the will to the present state of the future of the interpretation of the self-conscience and self-analy_ the superstition of the problem of the process to the consequences had to pure to the present to the sublime them as the origin and self-explained and the senses to his power or a principle and forers, the will to the will to
--
-...Temperature: 0.5
+-->
+Generating text after epoch: 29
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and despanting and forers and soul and the real that the famaked to the first and of the words and the scientific ready against so the fruits fhat of a long to itself, and that the frenchm is as the helps and substanting the world and state of the will to the present to experience in the first that the existence of the secret and the present statess and power and came to men, the problem of bein
--
+<!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n distasted to the guise, who  i sfortunately entails himself is really enaighted once more glory many godment, stone found in which are easily it still ihuman, isticipation of men also, to finally every present, ourselves. we does not believe to every nigore sights tophe,             is all wiver of head and women he recliss, as find itself no cosligors and actually and cally, reventence which is
@@ -570,4 +576,6 @@ Generating text after epoch: 29
 ...Temperature: 1.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n literal disabvious, breacur, wantath extent astrology, as the involved to men comprehended nones" hence bact is artuller: with otherting--that the thesocritestitimists6and, yea of viewful to forthest thrawn to his equal, have greeter to suffer, but the inflausing ingersing: he would becoming made herself which a mortallest delight in blather as gods themsilable the xopaciously therewithy, diffic
--
+-->
+
+Increased number of epochs resulted in increase relevance, better grammar, reduced spelling mistakes and proper sentence framing.
