@@ -1,6 +1,6 @@
 # char-level-text-generation-using-LSTM
 
-
+'''
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.4299
 
 Generating text after epoch: 0
@@ -515,7 +515,7 @@ Generating text after epoch: 26
 ...Generated:  n was thums to indiegh unto life stricted if they sore in its pricales; harmly refined and usistemer science in the usualiste, the phaseads of the art and end! therein and manifests highless into the evil, such parade for representatively      of "stall hypace fore by a sects him ought to which end, as dueces as humbles. it wints of germinic victomly, the learn around stogrificance and dogma treas
 -
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.0685
-
+'''
 Generating text after epoch: 27
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
