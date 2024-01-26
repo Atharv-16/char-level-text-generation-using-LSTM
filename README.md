@@ -25,24 +25,26 @@ Generating text after epoch: 0
 -->
 # Training 
 Generating text after epoch: 1
+
 ...Temperature: 0.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and the stand of the case of the sentiment of the stand and the sentiment of the sentiment that a people indeed that all the stand and the standed and the speak of the soure of the sentiment that is the stare of the such a strength of the stand of the stand of the stand that the stands that is all the stand of the stand of the sentiment that is the stand of the stand of the sentiment who has in 
--
+
 ...Temperature: 0.5
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n not any its will far the procede of the that is all that has can be as the speak and a moral far any time be such a succed in all that all the world which the spirits in the super-inflict asters and the philosophy and the that is has a be strength the easily have been far not even is the still and the still in the instance, and indignation to the highest perhaps to his fore man is has the instri
--
+
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n seems does unwaven uncertainty is, a happel of the ancient operatic taste and condution and pirtes--it is though he alarrogorary to see taken and curative has all wrong astehrently werepicter to propriation, "with morner of the highous, honour who can is the brild to them. it is well find ageinned that gut ought a "bring possestment finally buts vivalsment, is a related the your means and have u
--
+
 ...Temperature: 1.2
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  ne with thing do thateven with style needtily :ourtoutive fomanity have gosterostin1ly: if the rra"r", humane in headers that he will, eourh out and hand-chanouver, there is hope can breeds anligot, for one for such thinkind fingerity in miallement, we vounterited that they then halr was sinkent=cienters especim would for a power, but a wouldfems--whetect mad, or-jains and danger does a nener )sch
 
 
 It is observed that temperature of 0.5 suits the best in accordance with the training data context.
+
 <!--
 1565/1565 [==============================] - 12s 8ms/step - loss: 1.3541
 
