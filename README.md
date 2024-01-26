@@ -34,18 +34,21 @@ Generated:
 
 ...Temperature: 0.5
 ...Generating with seed: "preface   supposing that truth is a woma"
+
 Generated:  
 >n not any its will far the procede of the that is all that has can be as the speak and a moral far any time be such a succed in all that all the world which the spirits in the super-inflict asters and the philosophy and the that is has a be strength the easily have been far not even is the still and the still in the instance, and indignation to the highest perhaps to his fore man is has the instri
 
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  
-```n seems does unwaven uncertainty is, a happel of the ancient operatic taste and condution and pirtes--it is though he alarrogorary to see taken and curative has all wrong astehrently werepicter to propriation, "with morner of the highous, honour who can is the brild to them. it is well find ageinned that gut ought a "bring possestment finally buts vivalsment, is a related the your means and have u```
+
+Generated:  
+>n seems does unwaven uncertainty is, a happel of the ancient operatic taste and condution and pirtes--it is though he alarrogorary to see taken and curative has all wrong astehrently werepicter to propriation, "with morner of the highous, honour who can is the brild to them. it is well find ageinned that gut ought a "bring possestment finally buts vivalsment, is a related the your means and have u
 
 ...Temperature: 1.2
 ...enerating with seed: "preface   supposing that truth is a woma"
-...Generated:  
-```ne with thing do thateven with style needtily :ourtoutive fomanity have gosterostin1ly: if the rra"r", humane in headers that he will, eourh out and hand-chanouver, there is hope can breeds anligot, for one for such thinkind fingerity in miallement, we vounterited that they then halr was sinkent=cienters especim would for a power, but a wouldfems--whetect mad, or-jains and danger does a nener )sch```
+
+Generated:  
+>ne with thing do thateven with style needtily :ourtoutive fomanity have gosterostin1ly: if the rra"r", humane in headers that he will, eourh out and hand-chanouver, there is hope can breeds anligot, for one for such thinkind fingerity in miallement, we vounterited that they then halr was sinkent=cienters especim would for a power, but a wouldfems--whetect mad, or-jains and danger does a nener )sch
 
 Notice how 'n' is always the first charatcer generated as to complete the word 'woman'.
 It is observed that temperature of 0.5 suits the best in accordance with the training data context.
@@ -116,9 +119,15 @@ Generating text after epoch: 5
 ...Generating with seed: "preface   supposing that truth is a woma"
 ...Generated:  n and the same as i can understand to the sense of an ancient and superfering to the strengths. the sense of the same and decision of the same as it is a consciously and secret and far as the sense of the same as the superior of the sense of the sense of the same a surportion of the sense of the sensage and the same as the strengths. the world, and the same a surportion of the same as the same as 
 -->
+
+# Results 
+
 Generating text after epoch: 5
+
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  n recognized, into man is so the affact itself he can be the former to power, and on the soul of a short that said, is experience of strength, and in the same prisossive and certainly all that it is not experiences to the most really moral sense and superious and conscious of the present itself and to strengths, called that the world, in the strange to the spection of all that the sense, also a st
+
+Generated:  
+>n recognized, into man is so the affact itself he can be the former to power, and on the soul of a short that said, is experience of strength, and in the same prisossive and certainly all that it is not experiences to the most really moral sense and superious and conscious of the present itself and to strengths, called that the world, in the strange to the spection of all that the sense, also a st
 <!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
@@ -212,8 +221,11 @@ Generating text after epoch: 10
 ...Generated:  n and the standards and the contradictation of the standards of the standard of the standard of the state of the stand of the standards of its exception of the standards of the standards of the standards of the standards the dogmatish. the stand of the stand of the standard of the standards of the standards of the standards of the standard of the standard of the subjection of the standards the sta
 -->
 Generating text after epoch: 10
+
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  n and the reasons as the stands itself as a problem of pression and habits are the fear of the scientific more power, the sensunas, and in the good curiosity are the midst and standard and its ensuncient the streat a present that the self standards of the intention that the right to the thing of the absolute as the former that the essential fact that all the speaking powers and the intention is th
+
+Generated:  
+>n and the reasons as the stands itself as a problem of pression and habits are the fear of the scientific more power, the sensunas, and in the good curiosity are the midst and standard and its ensuncient the streat a present that the self standards of the intention that the right to the thing of the absolute as the former that the essential fact that all the speaking powers and the intention is th
 <!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
@@ -573,8 +585,11 @@ Generating text after epoch: 29
 ...Generated:  n and contrast and the same presented to the superstition the will to the will to the present state of the future of the interpretation of the self-conscience and self-analy_ the superstition of the problem of the process to the consequences had to pure to the present to the sublime them as the origin and self-explained and the senses to his power or a principle and forers, the will to the will to
 -->
 Generating text after epoch: 29
+
 ...Generating with seed: "preface   supposing that truth is a woma"
-...Generated:  n and despanting and forers and soul and the real that the famaked to the first and of the words and the scientific ready against so the fruits fhat of a long to itself, and that the frenchm is as the helps and substanting the world and state of the will to the present to experience in the first that the existence of the secret and the present statess and power and came to men, the problem of bein
+
+Generated:  
+>n and despanting and forers and soul and the real that the famaked to the first and of the words and the scientific ready against so the fruits fhat of a long to itself, and that the frenchm is as the helps and substanting the world and state of the will to the present to experience in the first that the existence of the secret and the present statess and power and came to men, the problem of bein
 <!--
 ...Temperature: 1.0
 ...Generating with seed: "preface   supposing that truth is a woma"
